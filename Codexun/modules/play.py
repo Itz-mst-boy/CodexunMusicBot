@@ -364,7 +364,7 @@ async def play(_, message: Message):
 
         except Exception as e:
             title = "NaN"
-            thumb_name = "https://telegra.ph/file/a7adee6cf365d74734c5d.png"
+            thumb_name = "https://telegra.ph/file/f4a0bd5cccfcc862b7bb7.mp4"
             duration = "NaN"
             views = "NaN"
             keyboard = InlineKeyboardMarkup(
@@ -574,7 +574,7 @@ async def play(_, message: Message):
         await message.reply_photo(
             photo="final.png",
             reply_markup=keyboard,
-            caption="**[Get Additional Information 💡]({})**\n\n**⑆ User :** **{}**\n**⑆ Group : [{}..](https://t.me/codexun)**".format(
+            caption="**[Get Additional Information 💡]({})**\n\n**⑆ User :** **{}**\n**⑆ Group : [{}..](https://t.me/worldwide_friend_zone)**".format(
                 url, message.from_user.mention(), message.chat.title
             ),
         )
@@ -600,7 +600,7 @@ async def play(_, message: Message):
         await message.reply_photo(
             photo="final.png",
             reply_markup=keyboard,
-            caption="**[Get Additional Information 💡]({})**\n\n**⑆ User :** **{}**\n**⑆ Group : [{}..](https://t.me/codexun)**".format(
+            caption="**[Get Additional Information 💡]({})**\n\n**⑆ User :** **{}**\n**⑆ Group : [{}..](https://t.me/worldwide_friend_zone)**".format(
                 url, message.from_user.mention(), message.chat.title
             ),
         )
