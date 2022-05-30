@@ -42,10 +42,10 @@ async def load_start():
         except Exception as e:
             print("Error came while clearing db")
             pass
-    await app.send_message(OWNER_ID, "**Bot Started Successfully**\n\nMake sure you joined @Codexun for regular updates from us.")
+    await app.send_message(OWNER_ID, "**Bot Started Successfully**\n\nMake sure you joined @worldwide_friend_zone for regular updates from us.")
     # If you change it then bot will be crash © copyrighted area
-    await client.join_chat("teamcodexun")
-    await client.join_chat("codexun")
+    await client.join_chat("mr_sukkun")
+    await client.join_chat("worldwide_friend_zone")
     print("[INFO]: STARTED")
     
 
