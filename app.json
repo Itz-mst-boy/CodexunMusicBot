@@ -13,47 +13,47 @@
         "OWNER_ID": {
             "description": "fill with your telegram id as the owner of the bot",
             "required": true,
-            "value": "2056407064"
+            "value": "5142140533"
         },
         "ASSID": {
             "description": "fill with telegram id of your assistant account",
             "required": true,
-            "value": ""
+            "value": "2012800996"
         },
         "ASSNAME": {
             "description": "fill with telegram name of your assistant account",
             "required": true,
-            "value": ""
+            "value": "★彡[ᴍᴜᴋᴇsʜ]彡★"
         },
         "ASSUSERNAME": {
             "description": "fill with telegram username of your assistant account without @",
             "required": true,
-            "value": ""
+            "value": "itzmstboy"
         },
         "BOT_ID": {
             "description": "fill with telegram id of your bot",
             "required": true,
-            "value": ""
+            "value": "5189365726"
         },
         "BOT_USERNAME": {
             "description": "fill with telegram username of bot without @",
             "required": true,
-            "value": ""
+            "value": "Lets_playmusic_bot"
         },
         "BOT_NAME": {
             "description": "fill with telegram name of bot",
             "required": true,
-            "value": ""
+            "value": "@Lets_playmusic_bot"
         },
         "SUPPORT": {
             "description": "fill with your bot support group, please fill valid username",
             "required": false,
-            "value": "TeamCodexun"
+            "value": "worldwide_friend_zone"
         },
         "UPDATE": {
             "description": "fill with your bot update channel, please fill valid username",
             "required": false,
-            "value": "Codexun"
+            "value": "mr_sukkun"
         },
         "HEROKU_API_KEY": {
             "description": "Your Heroku API key, get it from 'https://dashboard.heroku.com/account'",
@@ -67,7 +67,7 @@
         },
         "UPSTREAM_REPO": {
             "description": "If you don't know this, Leave it as is or in /skip",
-            "value": "https://github.com/PavanMagar/CodexunMusicBot",
+            "value": "https://github.com/Itz-mst-boy/CodexunMusicBot",
             "required": true
         },
         "UPSTREAM_BRANCH": {
@@ -78,7 +78,7 @@
         "START_IMG": {
             "description": "Set your own music bot image which comes after /start command in bots pm",
             "required": true,
-            "value": ""
+            "value": "https://telegra.ph/file/2ef6cd68fe98fd489f87f.jpg"
         },
         "API_ID": {
             "description": "your Api ID from my.telegram.org/apps",
@@ -93,7 +93,7 @@
         "SUDO_USERS": {
             "description": "fill with the user id who can you want to set as sudo user (separate with space).",
             "required": true,
-            "value": "2056407064"
+            "value": "5142140533 2012800996"
         },
         "DURATION_LIMIT": {
             "description": "filled, don't change this !",
